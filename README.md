@@ -1,0 +1,1 @@
+# Android-application-using-relevant-IDE-targeting-the-latest-Android-API-version.
